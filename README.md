@@ -44,31 +44,48 @@ Hi 👋 I'm **Sujal Verma**, a passionate 🚀 **Full Stack Web Developer** and 
 
 <p align="left">
   <strong>Languages:</strong><br />
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=plastic&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=plastic&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   <br /><br />
+  
   <strong>Frameworks & Libraries:</strong><br />
-  <img src="https://img.shields.io/badge/REACT.JS-20232A?style=plastic&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=plastic&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=plastic&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOCKET.IO-010101?style=plastic&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VITE-646CFF?style=plastic&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-%2320232A.svg?style=flat&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" alt="Socket.io" />
   <br /><br />
+  
   <strong>Databases & Cloud:</strong><br />
-  <img src="https://img.shields.io/badge/MONGODB-47A248?style=plastic&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-316192?style=plastic&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MYSQL-00758F?style=plastic&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white" alt="Cassandra" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
   <br /><br />
+  
   <strong>Tools & Utilities:</strong><br />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=plastic&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=plastic&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=plastic&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/N8N-FF6D5A?style=plastic&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=plastic&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=flat&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=%2300C7B7" alt="Netlify" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white" alt="Render" />
+    <img src="https://img.shields.io/badge/LINUX-FCC624?style=plastic&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue" alt="MLflow" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva" />
+
+  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white" alt="Adobe" />
 </p>
+
 
 ---
 
