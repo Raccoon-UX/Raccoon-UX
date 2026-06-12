@@ -33,14 +33,10 @@ Hi 👋 I'm **Sujal Verma**, a passionate 🚀 **Full Stack Web Developer** and 
 
 # 🌐 Socials:
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vsujal956@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vsujal956@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sujal-verma-725735326?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPIQ%2B5PDRS1motm9iRRQEQA%3D%3D) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31376682) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_sujal_86011) 
 
 ---
 
@@ -78,21 +74,20 @@ Hi 👋 I'm **Sujal Verma**, a passionate 🚀 **Full Stack Web Developer** and 
 
 # 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raccoon-UX&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Sujal's GitHub Stats" height="180" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raccoon-UX&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Raccoon-UX&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Raccoon-UX&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Raccoon-UX&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-# 🎯 Random Dev Quote:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Raccoon-UX&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 
