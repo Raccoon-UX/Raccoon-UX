@@ -108,10 +108,13 @@ Hi 👋 I'm **Sujal Verma**, a passionate 🚀 **Full Stack Web Developer** and 
 
 ---
 
-# 🏆 Top Contributed Repo:
+# 🔝 Top Contributed Repo:
 
 <p align="left">
   <a href="https://github.com/Raccoon-UX/GuardianRoute-Transport-System-O">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raccoon-UX&repo=GuardianRoute-Transport-System-O&theme=tokyonight" alt="GuardianRoute Repo" />
   </a>
 </p>
+
+---
+[![](https://komarev.com/ghpvc/?username=Raccoon-UX&icon=0&color=0)](https://visitcount.itsvg.in)
